@@ -1,10 +1,10 @@
 # 01-calculadora-notas-
-Calculadora de notas básica para verificar se alunos foram ou não aprovados.
+# Calculadora de notas básica para verificar se alunos foram ou não aprovados.
 
-Projeto para praticar:
+# Projeto para praticar:
 
-- variáveis
-- input
-- float
-- if/else
-- print
+# - variáveis
+# - input
+# - float
+# - if/else
+# - print
